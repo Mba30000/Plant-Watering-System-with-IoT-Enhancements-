@@ -1,0 +1,1 @@
+The plant watering system was created using a PIC18F46K80 microcontroller. An ESP32 was used for IOT, to send emails regarding the system's status. A Bluetooth model was also used to send signals via a DTMF decoder connected to the phone. This bluetooth signal is used to control the mode of the system.
